@@ -1,5 +1,7 @@
 # API - Gerenciamento de Tarefas
 
+Criação de uma API utilizando Express e Prisma, desenvolvendo as rotas, validações, controles e serviços. 
+
 ### Criação de tarefa POST /tasks
 
 Padrão de corpo
